@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Hey there, I'm Yosr.](https://github.com/YosrBenJemaa/raw/main/header.gif)
+
+---
+
 <!--
 **YosrBenJemaa/YosrBenJemaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
